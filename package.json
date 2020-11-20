@@ -1,0 +1,17 @@
+{
+  "name": "@chewbank/ioa-run",
+  "version": "9.8.8",
+  "description": "通过命令行方式执行ioa中的指定函数",
+  "files": [
+    "lib"
+  ],
+  "license": "ISC",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "jmr"
+  },
+  "dependencies": {
+    "@chewbank/consoln": "^1.0.3",
+    "@chewbank/ioa": "^10.0.5"
+  }
+}
